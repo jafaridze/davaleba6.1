@@ -1,0 +1,55 @@
+/*bases clases*/
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.container{
+	width: 90%;
+	
+
+}
+/*bases clases*/
+/*internet section*/
+.image{
+	width: 30%;
+	
+}
+.clear{
+	clear: both;
+}
+.box{
+	width: 65%;
+	margin-top: 100px;
+}
+.row{
+padding: 55px;
+
+}
+.title{
+	font-size: 32px;
+}
+.text{
+	font-size: 12px;
+	margin-top: 14px;
+}
+
+/*internet section*/
+
+/*web section*/
+.img{
+	width: 30%;
+}
+.text2{
+	text-align: right;
+}
+.row2{
+	background-color: #E6E6E6;
+	width: 100%;
+}
+
+
+/*web section*/
+
+
